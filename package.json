@@ -16,7 +16,7 @@
     "*.+(tsx|ts)": [
       "lint"
     ],
-    "*.+(tsx|ts|json|css|md)": [
+    "*.+(tsx|ts)": [
       "prettier:ts"
     ]
   },
@@ -42,3 +42,4 @@
     }
   }
 }
+
