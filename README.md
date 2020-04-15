@@ -1,2 +1,2 @@
-# node-typescript-teste
+# node-typescript-tester
 node enviroment for testing
